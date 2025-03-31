@@ -1,6 +1,7 @@
 # Titanic-Data-Analysis
 # Titanic-project
 # Titanic Data Analysis with Power BI  
+![DASHBOARD](https://github.com/user-attachments/assets/df09b2d7-2160-4d7d-8ba7-1ba544b880fc)
 
 ## Description  
 This project provides an in-depth analysis of the Titanic dataset using *Power BI. The dataset was **cleaned, formatted, and visualized* to uncover insights about passengers aboard the Titanic. The analysis answers key questions regarding passenger demographics, class distribution, fare prices, and relationships on board.  
